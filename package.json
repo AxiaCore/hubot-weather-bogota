@@ -1,0 +1,30 @@
+{
+  "name": "hubot-weather-bogota",
+  "description": "A Hubot script that posts a photo of the weather in Bogota",
+  "version": "1.0.0",
+  "author": "AxiaCore <info@axiacore.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "weather",
+    "bogota"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AxiaCore/hubot-weather-bogota.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/AxiaCore/hubot-weather-bogota/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "main": "index.coffee"
+
+}
